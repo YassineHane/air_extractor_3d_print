@@ -10,8 +10,8 @@ TODO list
 - [x] Add rotation-latch design into the connector ring
 - [x] Test the connector ring rotation-latch design
 - [x] Design plug connexion system for the connector ring
-- [ ] Make plug connector smaller to print for better fit
+- [x] Make plug connector smaller to print for better fit
 - [ ] Make transparent sheet blocker in connector ring smaller (currently cannot fit the paper through because of warping in print)
 - [ ] Design leg for connector ring
 - [ ] Design fan interface connector
-- [ ] ...
+- [ ] Design angle connector
